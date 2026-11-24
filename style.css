@@ -129,14 +129,14 @@ margin-top: 30px;
 }
 
 #form-contato input,
-#form-contato texarea {
+#form-contato textarea {
     padding: 12px;
     border: none;
     border-radius: 5px;
     font-family: Arial, sans-serif;
 }
 
-#form-contato texarea {
+#form-contato textarea {
     height: 120px;
     resize: vertical;
     border-radius: 5px;
